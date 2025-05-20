@@ -4,7 +4,7 @@ Small-sized rat pose estimation dataset.
 ## Dataset Overview
 ### 1. Illustration of annotations
 <p align="center">
-<img src="github/dataset.jpg" width="940" height='360'>
+<img src="imgrp-5.7k.png" width="940" height='360'>
 </p>
 
 ### 2. Definition of rat keypoints
@@ -49,12 +49,11 @@ The dataset follows CC-BY-4.0 license.
 If you are interested in our work, please cite the following:
 
 ```
-@article{han2025cross,
+@article{han2025small,
   title={Small Object Oriented Pose Estimation with Structural Similarity Constraint},
   author={Han, Le and Zhao, Lei and Zhang, Han and Song, Zhiying and Wang, Pengfei and Zheng, Nenggan},
   journal={IEEE Transactions on Instrumentation and Measurement},
   year={2025},
   publisher={IEEE}
-  % doi={10.1109/TCSVT.2025.3557844}
 }
 ```
