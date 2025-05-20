@@ -17,31 +17,6 @@ Small-sized rat pose estimation dataset.
 | 4        | Left Forelimb          | 9        | Tail Midpoint          |
 | 5        | Tail Root              | 10       | Tail Endpoint          | 
 
-### 3. Form of the dataset
-```text
-UDARP-9.4K Dataset
-|── UDARP-9.4K
-    │── Lawn scenarios
-        │-- Tilt_Indoor
-        │   │-- 4_train_1_0.jpg
-        │   │-- ...
-        │-- Vertical_Indoor
-        │   │-- 4_0.jpg
-        │   │-- ...
-        │-- Lawn_scenarios.csv
-    │── Platform scenarios
-        │-- maze
-        │   │-- 1 .bmp
-        │   │-- ...
-        │-- minefield
-        │   │-- 1.bmp
-        │   │-- ...
-        │-- treadmill2
-        │   │-- treadmill1_0.jpg
-        │   │-- ...
-        │-- ...
-        │-- Platform_scenarios.csv
-```
 
 ## License
 The dataset follows CC-BY-4.0 license.
