@@ -4,19 +4,8 @@ Small-sized rat pose estimation dataset.
 ## Dataset Overview
 ### 1. Illustration of annotations
 <p align="center">
-<img src="rp-5.7k.png" width="940" height='300'>
+<img src="rp5.7k.png" width="940" height='600'>
 </p>
-
-### 2. Definition of rat keypoints
-
-| Keypoint | Definition             | Keypoint | Definition             |
-|----------|------------------------|----------|------------------------|
-| 1        | Right Hindlimb         | 6        | Head                   |
-| 2        | Left Hindlimb          | 7        | Neck                   |
-| 3        | Right Forelimb         | 8        | Spine Midpoint         |
-| 4        | Left Forelimb          | 9        | Tail Midpoint          |
-| 5        | Tail Root              | 10       | Tail Endpoint          | 
-
 
 ## License
 The dataset follows CC-BY-4.0 license.
