@@ -4,7 +4,7 @@ Small-sized rat pose estimation dataset.
 ## Dataset Overview
 ### 1. Illustration of annotations
 <p align="center">
-<img src="rp5.7k.png" width="940" height='580'>
+<img src="rp5.7k.png" width="940" height='560'>
 </p>
 
 ## License
