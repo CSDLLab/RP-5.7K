@@ -13,11 +13,13 @@ The dataset follows CC-BY-4.0 license.
 If you are interested in our work, please cite the following:
 
 ```
-@article{han2025small,
-  title={Small Object Oriented Pose Estimation with Structural Similarity Constraint},
+@ARTICLE{11026867,
   author={Han, Le and Zhao, Lei and Zhang, Han and Song, Zhiying and Wang, Pengfei and Zheng, Nenggan},
-  journal={IEEE Transactions on Instrumentation and Measurement},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Small Object Oriented Pose Estimation with Structural Similarity Constraint}, 
   year={2025},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIM.2025.3576955}}
 ```
